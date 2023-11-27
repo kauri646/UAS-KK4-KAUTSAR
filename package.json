@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "uas-kk4-kautsar",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "ea": "kauri ganteng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kauri646/UAS-KK4-KAUTSAR"
+  },
+  "author": "kauri",
+  "license": "ISC",
+  "description": ""
+}
